@@ -21,24 +21,7 @@ This is a RESTful API to manage traditional Afghan proverbs in Dari, Pashto, and
 
 ## How to run the project locally
 
+1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/afghan-proverbs-api.git
-cd afghan-proverbs-api
-npm install
-npm run dev
-Example Requests (using Postman)
-	•	GET all proverbs:
-GET http://localhost:3000/proverbs
-	•	POST new proverb:
-POST http://localhost:3000/proverbs
-	•	GET single proverb:
-GET http://localhost:3000/proverbs/:id
-	•	PUT update proverb:
-PUT http://localhost:3000/proverbs/:id
-	•	DELETE delete proverb:
-DELETE http://localhost:3000/proverbs/:id
-### Steps to follow:
-
-1. **Replace YOUR_USERNAME** with your actual GitHub username in the README.md.
-2. Save the changes.
-3. Commit the changes to GitHub as explained earlier.
+git clone https://github.com/YourUsername/your-repo-name.git
+cd your-repo-name
